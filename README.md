@@ -6,10 +6,9 @@
     <strong>Site URL / Demo » </strong>
     <a href="https://omkarshinde254.github.io/portfolio"> omkarshinde254.github.io/portfolio</a>
     <br />
-**Built with** [Nextjs](https://nextjs.org/) & [Bootstrap5](https://getbootstrap.com).
-    <br />
 </p>
 
+**Built with** [Nextjs](https://nextjs.org/) & [Bootstrap5](https://getbootstrap.com).
 [![GitHub license](https://img.shields.io/github/license/hashirshoaeb/portfolio?style=for-the-badge)](https://github.com/hashirshoaeb/portfolio/blob/master/LICENSE)
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=16.16.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=8.11.0&color=cb0000&style=for-the-badge)](https://nodejs.org)
