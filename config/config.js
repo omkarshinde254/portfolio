@@ -155,7 +155,7 @@ export const links = {
 		},
 		{
 			title: "My GitHub",
-			link: "https://github.com/hashirshoaeb/",
+			link: "https://github.com/omkarshinde254/",
 		},
 		{
 			title: "My LinkedIn",
