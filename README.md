@@ -5,8 +5,8 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
     <strong>Site URL / Demo » </strong>
     <a href="https://omkarshinde254.github.io/portfolio"> omkarshinde254.github.io/portfolio</a>
-    <br/>
-    **Built with** [Nextjs](https://nextjs.org/) & [Bootstrap5](https://getbootstrap.com).
+    <br />
+**Built with** [Nextjs](https://nextjs.org/) & [Bootstrap5](https://getbootstrap.com).
     <br />
 </p>
 
