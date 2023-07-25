@@ -5,6 +5,7 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
     <strong>Site URL / Demo » </strong>
     <a href="https://omkarshinde254.github.io/portfolio"> omkarshinde254.github.io/portfolio</a>
+    **Built with** [Nextjs](https://nextjs.org/) & [Bootstrap5](https://getbootstrap.com).
     <br />
 </p>
 
@@ -13,7 +14,6 @@
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=8.11.0&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
 
-**Built with** [Nextjs](https://nextjs.org/) & [Bootstrap5](https://getbootstrap.com).
 
 <!-- CONTRIBUTING -->
 # Contributing
