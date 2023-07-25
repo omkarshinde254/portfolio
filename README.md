@@ -3,19 +3,9 @@
 <p align="center">
   <h1>Developer's Portfolio ✨</h1>
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
-
-  <p align="center">
-    <br />
     <strong>Site URL / Demo » </strong>
     <a href="https://omkarshinde254.github.io/portfolio"> omkarshinde254.github.io/portfolio</a>
     <br />
-    <br />
-    <a href="https://omkarshinde254.github.io/portfolio">About Me</a>
-    ·
-    <a href="https://github.com/omkarshinde254/portfolio/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/omkarshinde254/portfolio/issues">Request Feature</a>
-  </p>
 </p>
 
 [![GitHub license](https://img.shields.io/github/license/hashirshoaeb/portfolio?style=for-the-badge)](https://github.com/hashirshoaeb/portfolio/blob/master/LICENSE)
@@ -42,3 +32,11 @@ Contributions are what make the open source community such an amazing place to l
 # License
 
 Distributed under the `MIT` License. See [LICENSE](https://github.com/hashirshoaeb/portfolio/blob/main/LICENSE) for more information.
+<p align="center">
+    <br />
+    <a href="https://omkarshinde254.github.io/portfolio">About Me</a>
+    ·
+    <a href="https://github.com/omkarshinde254/portfolio/issues">Report Bug</a>
+    · 
+    <a href="https://github.com/omkarshinde254/portfolio/issues">Request Feature</a>
+</p>
