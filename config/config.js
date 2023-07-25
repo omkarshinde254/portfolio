@@ -1,6 +1,6 @@
 
 import profile from './profile.png';
-import { faAppStore, faGithub, faGooglePlay, faGlobe } from '@fortawesome/free-brands-svg-icons';
+import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
 import { faGlobe } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
@@ -121,7 +121,7 @@ export const contact = {
 export const SEO = {
 	// 50 - 60 char  
 	title: "Omkar Shinde | A Software Engineer | Full Stack Developer | AI Enthusiast",
-	description: "I create web applications and AI models. I am a graduate student pursing Masters in Computer Science from Binghamton University ",
+	description: "I create web applications and AI models ",
 	image: profile.src,
 }
 
