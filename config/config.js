@@ -26,7 +26,7 @@ export const navigation = {
 }
 export const intro = {
 	title: "Hey, I'm Omkar",
-	description: "A Computer Engineer creating mobile apps and static websites.",
+	description: "A Software Engineer creating websites and AI Models.",
 	image: profile.src,
 	buttons: [
 		{
@@ -36,7 +36,7 @@ export const intro = {
 		},
 		{
 			title: "Resume",
-			link: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+			link: "https://drive.google.com/file/d/1mZQhMWQ_X-63JNNarAAnl8_bkHOVE8s6/view?usp=drive_link",
 			isPrimary: false,
 		},
 	],
@@ -104,7 +104,7 @@ export const projects = {
 			icons: [
 				{
 					icon: faGithub,
-					link: "https://github.com/hashirshoaeb/portfolio",
+					link: "https://github.com/omkarshinde254/portfolio",
 				},
 			]
 		},
@@ -117,41 +117,28 @@ export const contact = {
 	buttons: [
 		{
 			title: "Email Me",
-			link: "mailto:hashirshoaeb@gmail.com",
+			link: "mailto:omkarshinde254@gmail.com",
 			isPrimary: true,
-		},
-		{
-			title: "Schedule Meeting",
-			link: "",
-			isPrimary: false,
-		},
+		}
 	]
 }
 
 // SEARCH ENGINE 
 export const SEO = {
 	// 50 - 60 char  
-	title: "Hashir Shoaib | Computer Engineer | Flutter | Reactjs developer",
+	title: "Omkar Shinde | Software Engineer | Python | Reactjs developer",
 	description: "I create mobile apps and static websites. I graduated from National University of Sciences and Technology (NUST) in 2020 with a degree in Computer Engineering.",
 	image: profile.src,
 }
 
 export const links = {
 	image: profile.src,
-	title: "@hashirshoaeb",
-	description: "Computer Engineer | Flutter | Reactjs Developer",
+	title: "@omkarshinde",
+	description: "Software Engineer | Python | Reactjs Developer",
 	cards: [
 		{
 			title: "My website",
-			link: "https://hashirshoaeb.com/",
-		},
-		{
-			title: "QuranTalk App",
-			link: "https://www.qurantalk.app/",
-		},
-		{
-			title: "StarBook App",
-			link: "https://starbook.dev/",
+			link: "https://github.com/omkarshinde254/portfolio",
 		},
 		{
 			title: "My GitHub",
@@ -159,7 +146,7 @@ export const links = {
 		},
 		{
 			title: "My LinkedIn",
-			link: "https://www.linkedin.com/in/hashirshoaeb/",
+			link: "https://www.linkedin.com/in/omkarshinde254/",
 		},
 	]
 }
