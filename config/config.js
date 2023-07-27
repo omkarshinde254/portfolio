@@ -62,7 +62,12 @@ export const work = {
 			title: "AI Developer",
 			description: "I create AI models using Python and TensorFlow to solve real world problems.",
 			icons: null,
-		}
+		},
+		{
+			title: "Python Developer",
+			description: "I create Python scripts to automate tasks and create web applications.",
+			icons: null,
+		},
 	],
 }
 
@@ -96,10 +101,10 @@ export const projects = {
 		{
 			title: "Impact of Covid-19 on Layoffs",
 			description: "A google colab notebook that analyzes the impact of Covid-19 on layoffs and performs sentiment for companies in USA",
-			icon: [
+			icons: [
 				{
 					icon: faGlobe,
-					links: "https://colab.research.google.com/drive/1_JmzYXWP4ScuSDIKqOETuMvlKIRfqYWu?usp=sharing"
+					link: "https://colab.research.google.com/drive/1_JmzYXWP4ScuSDIKqOETuMvlKIRfqYWu?usp=sharing"
 				},
 				{
 					icon: faGithub,
@@ -117,6 +122,16 @@ export const projects = {
 				},
 			]
 		},
+		{
+			title: "Smart Assistant Device for Blind People",
+			description: "A smart assistant device for blind people that uses Raspberry Pi and custom AI model to help visually impaired people to live a better life.",
+			icons: [
+				{
+					icon: faGithub,
+					link: "https://github.com/omkarshinde254/SmartSpecs"
+				},
+			]
+		}
 	],
 }
 
