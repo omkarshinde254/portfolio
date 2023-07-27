@@ -1,4 +1,5 @@
 
+import { icon } from '@fortawesome/fontawesome-svg-core';
 import profile from './profile.png';
 import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg-icons';
 import { faGlobe } from '@fortawesome/free-solid-svg-icons';
@@ -93,6 +94,20 @@ export const projects = {
 			]
 		},
 		{
+			title: "Impact of Covid-19 on Layoffs",
+			description: "A google colab notebook that analyzes the impact of Covid-19 on layoffs and performs sentiment for companies in USA",
+			icon: [
+				{
+					icon: faGlobe,
+					links: "https://colab.research.google.com/drive/1_JmzYXWP4ScuSDIKqOETuMvlKIRfqYWu?usp=sharing"
+				},
+				{
+					icon: faGithub,
+					link: "https://github.com/omkarshinde254/Covid-Impact-on-Employee-Layoff"
+				}
+			]
+		},
+		{
 			title: "Visually Sorted",
 			description: "A web application in Django that visualizes various sorting algorithms",
 			icons: [
@@ -127,7 +142,7 @@ export const SEO = {
 
 export const links = {
 	image: profile.src,
-	title: "@omkarshinde",
+	title: "@omkarshinde254",
 	description: "Software Engineer | Full Stack Developer | AI Enthusiast",
 	cards: [
 		{
