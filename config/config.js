@@ -46,7 +46,7 @@ export const intro = {
 export const about = {
 	title: "Who I am",
 	description: [
-		"I am a graduate student pursing Masters in Computer Science from Binghamton University (Expected May-2024. Having spent four years as a Senior Full Stack Developer at Vistaar Technologies, I possess a strong proficiency in Python, JavaScript, and various frameworks. As a published author of an IEEE paper on 'Smart Assistant device for Blind People,' I am passionate about utilizing technology to create meaningful solutions. Beyond work, I actively engage with communities, mentor aspiring developers, and advocate for diversity in the tech industry. In my leisure time, you can find me immersed in Dota 2, cycling, and participating in hackathons to explore innovative ideas.",
+		"I am a graduate student pursuing Masters's in Computer Science from Binghamton University (Expected May-2024). Having spent four years as a Senior Full Stack Developer at Vistaar Technologies, I possess a strong proficiency in Python, JavaScript, and various frameworks. As a published author of an IEEE paper on 'Smart Assistant Devices for Blind People,' I am passionate about utilizing technology to create meaningful solutions. Beyond work, I actively engage with communities, mentor aspiring developers, and advocate for diversity in the tech industry. In my leisure time, you can find me immersed in Dota 2, cycling, and participating in hackathons to explore innovative ideas.",
 	],
 }
 
