@@ -20,7 +20,7 @@ export const navigation = {
 			link: "#contact",
 		},
 		{
-			title: "Links",
+			title: "Imp Stuff",
 			link: "/links",
 		},
 	],
