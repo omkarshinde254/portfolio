@@ -174,7 +174,7 @@ export const links = {
 		},
 		{
 			title: "My Resume",
-			link: "https://drive.google.com/file/d/1mZQhMWQ_X-63JNNarAAnl8_bkHOVE8s6/view?usp=drive_link",
+			link: "https://drive.google.com/file/d/1pHCD1LA4qng2MVMBqx5Wq_XtFs4jdVpS/view?usp=sharing",
 		}
 	]
 }
